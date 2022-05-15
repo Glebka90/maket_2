@@ -1,0 +1,12 @@
+.map-block {
+  position: absolute;
+  bottom: 0;
+}
+.map {
+  width: 1920px;
+  height: 450px;
+  filter: brightness(40%);
+}
+.map:hover {
+  filter: brightness(100%);
+}

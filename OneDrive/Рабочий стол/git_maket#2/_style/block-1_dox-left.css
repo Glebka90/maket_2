@@ -1,0 +1,60 @@
+.block-1 {
+  width: 1920px;
+  height: 561px;
+  position: absolute;
+  top: 765px;
+}
+.box-left {
+  width: 755px;
+  height: 565px;
+  background-color: #393f47;
+  
+}
+.line__box-left{
+  left: 405px;
+  top: 120px;
+}
+.headin__box-left {
+  width: 445px;
+  height: 86px;
+  position: absolute;
+  left: 405px;
+  top: 166px;
+  font-family: 'Roboto-bold';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 49px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.text__box-left {
+  width: 405px;
+  height: 45px;
+  position: absolute;
+  left: 405px;
+  top: 282px;
+  font-size: 18px;
+  line-height: 28px;
+}
+.btn__box-left {
+  width: 220px;
+  height: 55px;
+  position: absolute;
+  left: 405px;
+  top: 377px;
+  background: #c8a35f;
+  font-family: Roboto-Light;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 25px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.btn__box-left:hover {
+  cursor: pointer;
+}

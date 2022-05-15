@@ -1,0 +1,115 @@
+.line__header {
+  width: 1920px;
+  height: 45px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background: rgba(200, 163, 95, 1);
+}
+.list-language {
+  width: 82px;
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  font-size: 12px;
+  line-height: 14px;
+}
+.fone__header {
+  font-size: 12px;
+  line-height: 14px;
+}
+.mail__heade {
+  font-size: 12px;
+  line-height: 14px;
+}
+.img__header {
+  position: absolute;
+  top: 145px;
+  z-index: 1;
+}
+.list__nav {
+  width: 409px;
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  left: 1103px;
+  top: 87px;
+  list-style-type: none;
+}
+
+.btn-nav {
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+.btn-nav:hover {
+  text-decoration: underline;
+}
+.name-company {
+  position: absolute;
+  left: 455px;
+  top: 84px;
+}
+.mark-map1 {
+  position: absolute;
+  left: 628.32px;
+  top: 83px;
+}
+.mark-map2 {
+  position: absolute;
+  left: 632.08px;
+  top: 86.39px;
+}
+.our-offices {
+  position: absolute;
+  left: 660px;
+  top: 87px;
+}
+.our-offices:hover {
+  text-decoration: underline;
+}
+/* линия */
+.white-line {
+  width: 1px;
+  height: 46px;
+  background-color: white;
+  position: absolute;
+  left: 595px;
+  top: 72px;
+}
+.logo__header{
+  left: 405px;
+  top: 72px;
+}
+.text__header {
+  width: 920px;
+  height: 245px;
+  text-align: center;
+  position: absolute;
+  left: 500px;
+  top: 300px;
+  border: 1px rgba(200, 163, 95, 1) solid;
+  z-index: 2;
+}
+.heading__header {
+  height: 59px;
+  padding-top: 45px;
+  font-family: 'Roboto-Bold';
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 75px;
+  text-align: center;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+.text-heading__header {
+  height: 51px;
+  margin: 0 auto;
+  padding-top: 45px;
+  width: 700px;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+
+}

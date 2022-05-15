@@ -1,0 +1,57 @@
+.footer {
+  width: 1920px;
+  height: 161px;
+  background: #c8a35f;
+  position: absolute;
+  bottom: 0;
+}
+.logo__footer {
+  left: 405px;
+  top: 65px;
+}
+.name-company__footer {
+  position: absolute;
+  left: 455px;
+  top: 72px;
+}
+.adress {
+  position: absolute;
+  left: 595px;
+  top: 65px;
+  font-size: 14px;
+  line-height: 16px;
+}
+.mail {
+  position: absolute;
+  left: 595px;
+  top: 88px;
+  font-size: 14px;
+  line-height: 16px;
+  color: #2f343a;
+}
+.pfone-1,
+.pfone-2 {
+  position: absolute;
+  left: 975px;
+  font-size: 14px;
+  line-height: 16px;
+}
+.pfone-1 {
+  top: 65px;
+}
+.pfone-2 {
+  top: 88px;
+}
+.made__in {
+  position: absolute;
+  right: 429px;
+  top: 88px;
+  font-family: "Roboto-Light";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: right;
+  text-decoration: underline;
+  color: #2f343a;
+}

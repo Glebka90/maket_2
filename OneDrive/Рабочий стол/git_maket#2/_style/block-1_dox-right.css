@@ -1,0 +1,35 @@
+.box-right {
+  width: 755px;
+  height: 565px;
+  background-color: #393f47;
+  position: absolute;
+  right: 0;
+  top: 0px;
+}
+/* .container{
+  width: 455px;
+} */
+.slider {
+  width: 636px;
+  position: absolute;
+  right: 405px;
+  top: 156px;
+}
+.btn-arrow {
+  height: 266px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.btn-slider {
+  width: 161px;
+  display: flex;
+  justify-content: space-between;
+}
+.slider-item {
+  width: 445px;
+  height: 266px;
+  position: absolute;
+  left: 0;
+}

@@ -1,0 +1,26 @@
+.logo-box {
+  width: 40.14px;
+  height: 47.14px;
+  position: absolute;
+
+}
+.img-logo1 {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+.img-logo2 {
+  position: absolute;
+  left: 5.17px;
+  bottom: 5.17px;
+}
+.img-logo3 {
+  position: absolute;
+  right: 0;
+  top:0;
+}
+.img-logo4 {
+  position: absolute;
+  right: 5.17px;
+  top: 5.17px;
+}

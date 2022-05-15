@@ -1,0 +1,67 @@
+@import url(./_style/header.css);
+@import url(./_style/logo.css);
+@import url(./_style/block-1_dox-left.css);
+@import url(./_style/block-1_dox-right.css);
+@import url(./_style/block-2.css);
+@import url(./_style/block-3.css);
+@import url(./_style/footer.css);
+@import url(./_style/map.css);
+
+/* стиль страницы */
+.body {
+  width: 1920px;
+  height: 3282px;
+  margin: 0 auto;
+  position: relative;
+}
+.style__body {
+  width: 1920px;
+  height: 3282px;
+  background: rgba(47, 52, 58, 1);
+}
+.text {
+  font-family: "Roboto-Light";
+  font-style: normal;
+  font-weight: normal;
+  color: #ffffff;
+}
+.line {
+  width: 90px;
+  height: 6px;
+  background-color: #c8a35f;
+  position: absolute;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+.text-arrow {
+  font-family:'Roboto-light';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 25px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #c8a35f;
+}
+/* обнуление стией */
+@import url(./_style/box-sizin.css);
+@import url(./_style/resert_style_brouser.css);
+/* обнуление стией */
+
+@font-face {
+  font-family: 'Roboto-Light';
+  src: url(./_font/_roboto/Roboto-Light.ttf);
+}
+
+@font-face {
+  font-family: 'Roboto-bold';
+  src: url(./_font/_roboto/Roboto-Bold.ttf);
+}
